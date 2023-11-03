@@ -21,6 +21,9 @@
 7. **Animations and Transitions**: Enhanced user experience with animations and smooth transitions.
 8. **Custom Scrollbar**: Added a custom scrollbar for improved user interface aesthetics.
 
+## Deployment Link [https://sahillamba0008.github.io/ecom_devTown/](https://sahillamba0008.github.io/ecom_devTown/)
+- Please note that there's a minor issue with the deployment. To reach the starting point, click on the "Home" navbar item or the app logo on the left. I'll address this issue shortly to ensure a smooth user experience.
+- 
 ## How to Run This Project
 
 To run this project locally, follow these steps:
