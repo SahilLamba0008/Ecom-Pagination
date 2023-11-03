@@ -86,7 +86,8 @@ const SingleProductPage = () => {
   useEffect(() => {
     const API = `https://dummyjson.com/products/${id}`;
     fetchSingleProductData(API);
-  }, []);
+  }, [id, fetchSingleProductData]); /* eslint */
+
   console.log(singleProduct);
 
   const { name, brand, price, description, stock, images } = singleProduct;
