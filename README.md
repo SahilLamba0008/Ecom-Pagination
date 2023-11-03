@@ -19,6 +19,7 @@
 5. **Constants Folder**: A separate folder for constants to easily modify data in the future.
 6. **Responsiveness**: All pages are fully responsive using the `rem` unit for better media queries.
 7. **Animations and Transitions**: Enhanced user experience with animations and smooth transitions.
+8. **Custom Scrollbar**: Added a custom scrollbar for improved user interface aesthetics.
 
 ## How to Run This Project
 
@@ -44,10 +45,20 @@ Now you can interact with the project locally on your machine.
 
 
 ## Screenshots
-
+## 1.
 ![Screenshot (108)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/90aeb72b-b31a-44e5-8b89-86aed02feb93)
+## 2.
 ![Screenshot (107)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/b6061d86-ef45-4b91-86f7-53c40c743f37)
+## 3.
 ![Screenshot (106)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/ab9edfce-cac7-42ae-8c03-24d908553110)
+## 4.
 ![Screenshot (105)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/0a173b39-4a01-4434-ab4a-a21dc65c9ee6)
+## 5.
 ![Screenshot (104)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/44ccd6a0-69ea-404c-b118-a8386e47e26c)
+## 6.
 ![Screenshot (109)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/06af114c-a3bb-45ee-a12e-6c21ef63b2d5)
+
+## Possible Enhancements
+
+1. **Homepage Enhancements**: Consider adding elements such as testimonials and popular products to the homepage.
+2. **Shopping Cart**: Implement a shopping cart feature to enhance the user shopping experience.
