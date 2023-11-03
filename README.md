@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Ecom.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tech Stack Used
 
-## Available Scripts
+- **ReactJS**: The JavaScript library used for building the user interface.
+- **React Router DOM**: For handling client-side routing within the application.
+- **Styled-Components (CSS)**: A CSS-in-JS library for styling your components.
+- **JavaScript**: The primary programming language used.
+- **Axios**: A promise-based HTTP client for making API requests.
+- **Git**: Version control system for managing the source code.
+- **API used**: [https://dummyjson.com/](https://dummyjson.com/)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+1. **Pagination**: Backend-based pagination for optimized performance.
+2. **Filtering**: Users can filter products based on price range.
+3. **Sorting**: Sorting options available for price in ascending and descending order.
+4. **Seamless Navigation**: Smooth and intuitive navigation experience.
+5. **Constants Folder**: A separate folder for constants to easily modify data in the future.
+6. **Responsiveness**: All pages are fully responsive using the `rem` unit for better media queries.
+7. **Animations and Transitions**: Enhanced user experience with animations and smooth transitions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to Run This Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To run this project locally, follow these steps:
 
-### `npm test`
+1. **Clone the Repository**: 
+    git clone <repository-url>
+   - Replace `<repository-url>` with the actual URL of your project's repository.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. **Navigate to the Project Directory**: 
+    cd project-directory
+   - Navigate to the directory where you've cloned the project.
 
-### `npm run build`
+3. **Install Dependencies**:
+    npm install
+   - This command will install all the necessary dependencies for the project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. **Start the Development Server**:
+    npm start
+   - This will start the development server, and you can access the project in your web browser at `http://localhost:3000`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Now you can interact with the project locally on your machine.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (108)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/90aeb72b-b31a-44e5-8b89-86aed02feb93)
+![Screenshot (107)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/b6061d86-ef45-4b91-86f7-53c40c743f37)
+![Screenshot (106)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/ab9edfce-cac7-42ae-8c03-24d908553110)
+![Screenshot (105)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/0a173b39-4a01-4434-ab4a-a21dc65c9ee6)
+![Screenshot (104)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/44ccd6a0-69ea-404c-b118-a8386e47e26c)
+![Screenshot (109)](https://github.com/SahilLamba0008/ecom_devTown/assets/125360487/06af114c-a3bb-45ee-a12e-6c21ef63b2d5)
